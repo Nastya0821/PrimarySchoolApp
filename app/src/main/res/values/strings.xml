@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="Sales_icon">Sales</string>
+    <string name="contacts_text">Аккаунт</string>
+    <string name="main_scene_text">Главная</string>
+    <string name="about_text">Про нас</string>
+
+</resources>
